@@ -1,0 +1,35 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #f4f4f4;
+    height: 8000px;
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+h5 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+nav {
+    position: sticky;
+}
+
+#about {
+    background-color: white;
+}
+
+.grid {
+    gap: 12%;
+}
